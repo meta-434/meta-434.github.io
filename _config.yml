@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 title: [Alex Hapgood]
 description: [A short history of who I am and what I know]
+site.showdownloads: [false]
